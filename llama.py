@@ -5,7 +5,7 @@
 ######################################################################################################
 
 # Your PAT (Personal Access Token) can be found in the portal under Authentification
-PAT = '41f8c180a1724b07b96244ce1d3bda41'
+PAT = 'be81c1c5fa3f4c9f8161861416983ede'
 # Specify the correct user_id/app_id pairings
 # Since you're making inferences outside your app's scope
 USER_ID = 'abd1'
